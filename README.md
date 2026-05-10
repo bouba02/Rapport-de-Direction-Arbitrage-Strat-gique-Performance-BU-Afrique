@@ -148,8 +148,6 @@ Global KPIs · P&L waterfall (Revenue → Net Income) · Consolidated collection
 expert-comptable-africa-bu/
 ├── README.md                  # This file (English)
 ├── README_FR.md               # French version
-├── DAX_MEASURES.md
-├── METHODOLOGY.md
 ├── schema.png
 └── pbix/
     └── (not shared — confidential client data)
